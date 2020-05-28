@@ -1,17 +1,17 @@
-=== WP TypeIt ===
+=== WP TypeIt Lite ===
 
 Contributors: alexmacarthur
 Donate link: paypal.me/alexmacarthur
 Tags: typewriter effect, text effect, text animation
 Requires PHP: 5.6
 Requires at least: 4.0
-Tested up to: 4.9.7
-Stable tag: 1.0.2
+Tested up to: 5.4.1
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-This is the official free WordPress plugin for [TypeIt](https://typeitjs.com), the most versatile animated typing utility on the planet. WP TypeIt allows you to easily generate typewriter effects for your website by use of a single easy-to-configure shortcode. Place this shortcode on any post or page, and the effect will be live.
+This is the official free WordPress plugin for [TypeIt](https://typeitjs.com), the most versatile animated typing utility on the planet. WP TypeIt Lite allows you to easily generate typewriter effects for your website by use of a single easy-to-configure shortcode. Place this shortcode on any post or page, and the effect will be live.
 
 = The Perks =
 * *Unobtrusive* - All this plugin does is register a shortcode you can use in your posts. 
@@ -19,11 +19,17 @@ This is the official free WordPress plugin for [TypeIt](https://typeitjs.com), t
 * *Performance in Mind* - TypeIt will only be enqueued if it's actually needed on the page. 
 * *The Real Deal* - This plugin is created and maintained by the creator of TypeIt itself. 
 
-= Heads Up for WP TypeIt Pro =
-If you're looking to generate more advanced typewriter effects, keep an eye out for WP TypeIt Pro, which will allow you to write multiple strings per instance, build effects with a custom post type and friendly UI, and more. Stay tuned...
+= Want More Features & Active Development? =
+Being a "lite" version, this plugin largely receives maintenance updates and will probably not gain any more features than what's currently here. By purchasing a license for the fully-featured version of the plugin, you'll get the following: 
+
+* Access to a Gutenberg block for creating highly customizable, dynamic effects. 
+* More features for the shortcode provided by the plugin.
+* More frequent TypeIt source updates.
+
+For more information, [see here](https://typeitjs.com/docs/wordpress). 
 
 == Installation ==
-s
+
 1. Download the plugin and upload to your plugins directory, or install the plugin through the WordPress plugins page.
 2. Activate the plugin through the 'Plugins' page.
 
@@ -86,9 +92,9 @@ Nope! TypeIt uses vanilla JavaScript with no external dependencies, so you're go
 * Improve code structure.
 * Make code more easily hookable for developers.
 
+= 1.0.3 =
+* Update TypeIt's source to v7.0.4.
+
 == Feedback ==
 
 You like it? [Email](mailto:alex@macarthur.me) or [tweet](http://www.twitter.com/amacarthur) me. You hate it? [Email](mailto:alex@macarthur.me) or [tweet](http://www.twitter.com/amacarthur) me.
-
-Regardless of how you feel, your review would be greatly appreciated!
-

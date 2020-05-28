@@ -1,9 +1,9 @@
 <?php
 /**
-* Plugin Name: WP TypeIt
+* Plugin Name: WP TypeIt Lite
 * Plugin URI: https://typeitjs.com
 * Description: Easily create and manage typewriter effects using the JavaScript utility, TypeIt.
-* Version: 1.0.2
+* Version: 1.0.3
 * Author: Alex MacArthur
 * Author URI: https://macarthur.me
 * License: GPLv2 or later
